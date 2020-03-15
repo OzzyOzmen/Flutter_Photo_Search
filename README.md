@@ -2,7 +2,7 @@
 
 Flutter Photo Search Example
 
-https://files.fm/f/drwyy7ds
+Short video of application : https://files.fm/f/drwyy7ds
 
 ## Getting Started
 
