@@ -2,7 +2,7 @@
 
 Flutter Photo Search Example
 
-<script type="text/javascript" src="https://files.fm/embed/playerv2?hash=drwyy7ds&w=100%&h=auto" id="filesfm_embed_js__drwyy7ds"></script>
+https://files.fm/f/drwyy7ds
 
 ## Getting Started
 
